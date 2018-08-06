@@ -1,0 +1,29 @@
+{
+  "cSpell.words": [
+    "add",
+    "datepicker",
+    "dev",
+    "devtools",
+    "entrypoints",
+    "expensify",
+    "extension",
+    "flowtype",
+    "prettier",
+    "redux",
+    "scss",
+    "server",
+    "stylelint"
+  ],
+  "files.associations": {
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    ".stylelintrc": "json"
+  },
+  "files.autoSave": "onFocusChange",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "{jsx|js}"
+  }
+}
